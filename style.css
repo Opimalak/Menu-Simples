@@ -12,3 +12,7 @@ a{
     text-decoration: none;
     color: blueviolet;
 }
+a:hover{
+    background-color: black;
+    animation-duration: 1rem;
+}
